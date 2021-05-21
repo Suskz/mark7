@@ -1,6 +1,6 @@
 require 'capybara'
 require 'capybara/cucumber'
-
+#abrir
 PATH="C:\windows\chromedriver.exe"
 
 
